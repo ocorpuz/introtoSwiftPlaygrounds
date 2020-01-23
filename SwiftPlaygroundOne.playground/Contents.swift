@@ -13,3 +13,6 @@ var my3rd = "is OLIVER!!!"
 var my4th = my1st+my2nd+my3rd
 print(my4th)
 
+// Assignment #2 Introduction to True and False
+var appState = false
+print(appState)
