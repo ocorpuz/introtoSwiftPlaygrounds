@@ -16,3 +16,13 @@ print(my4th)
 // Assignment #2 Introduction to True and False
 var appState = false
 print(appState)
+var numberOne = 5
+var numberTwo = 7
+var comparison = numberOne < numberTwo
+var comparison1 = numberOne > numberTwo
+
+var A2one = "808"
+var A2two = "808"
+var equalto = A2one == A2two
+var notequal = A2one != A2two
+
